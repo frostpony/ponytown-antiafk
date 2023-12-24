@@ -12,7 +12,8 @@ I AM JUST A RANDOM PONY! Use this use at your own risk.
 - join server
 - open dev tools (pony.town blocks this, i found success
   with clicking on search bar and pressing CTRL+SHIFT+I)
-  
+```
+
 ### BOOKMARK METHOD: (SOON)
 ### BROWSER EXTENSION: (SOON-ish?)
 
